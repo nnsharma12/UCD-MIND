@@ -1,2 +1,2 @@
 # UCDMIND
-Linux/Python Scripts 
+Linux/Python & Other Misc Scripts 

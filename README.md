@@ -32,3 +32,7 @@ copy_n.sh --> copies contents of folder/dir to specified folder.
 create_foldr.sh --> creates new folders. 
 
 make_surf.sh --> creates new directories for saving of surf analysis data. 
+
+cooks_distance.R --> test script for computing cooks distance given sample data, 
+
+CompilationSnippets.pdf --> compilation of code snippets, utilized for self teaching/testing or integration into other code.

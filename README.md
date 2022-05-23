@@ -1,38 +1,38 @@
 # UCD_MIND
 Linux/Python & Other Misc Scripts 
 
-MountHyperion.md --> code snippets for mounting lab workstation on personal laptop for remote work 
+<b>MountHyperion.md</b> --> code snippets for mounting lab workstation on personal laptop for remote work 
 
-run_dtifit.csh --> script for running diffusion tract imaging. Takes list of files as input. 
+<b>run_dtifit.csh</b> --> shell script for running diffusion tract imaging. Takes list of files as input. 
 
-ScanTimePointfromFileName.py --> script for extracting scan timepoints from default file naming convention. 
+<b>ScanTimePointfromFileName.py</b> --> python script for extracting scan timepoints from default file naming convention. 
 
-PassQC.py --> original written by collegue, assisted with adjustments. 
+<b>PassQC.py</b> --> python script, original written by collegue, assisted with adjustments. 
 
-NatashaTemperatureModule.py --> script that performs different functions relating to temperature etc. 
+<b>NatashaTemperatureModule.py</b> --> python script that performs different functions relating to temperature etc. 
 
-NS_extract_rename_FINAL.py --> script that batch extracts MRI image data from zipped file and renames/appends to spcified naming convention. 
+<b>NS_extract_rename_FINAL.py</b> --> python script that batch extracts MRI image data from zipped file and renames/appends to spcified naming convention. 
 
-chg.csh --> script (original not written by me) but edited for specified use. Takes list of Participant ID's and runs freesurfer preprocessing. 
+<b>chg.csh</b> --> shell script (original not written by me) but edited for specified use. Takes list of Participant ID's and runs freesurfer preprocessing. 
 
-fs_preprocess_sidesleepers.csh --> same as above except this script preprocesses sidesleepers. 
+<b>fs_preprocess_sidesleepers.csh</b> --> shell script same as above except this script preprocesses sidesleepers. 
 
-HowTo_Volume.m --> matlab script to run LGI data. Original script not by me, but edited for lab use. 
+<b>HowTo_Volume.m</b> --> matlab script to run LGI data. Original script not by me, but edited for lab use. 
 
-add_suffix.sh --> append specified phrase to end of filename. 
+<b>add_suffix.sh</b> --> shell script, append specified phrase to end of filename. 
 
-check_file.sh --> checks if file exists. 
+<b>check_file.sh</b> --> shell script, checks if file exists. 
 
-compare.sh --> compares two files. 
+<b>compare.sh</b> --> shell script, compares two files. 
 
-convrt_col_to_row.sh --> convers file with data in columns to rows. 
+<b>convrt_col_to_row.sh</b> --> shell script, convers file with data in columns to rows. 
 
-copy_n.sh --> copies contents of folder/dir to specified folder. 
+<b>copy_n.sh</b> --> shell script, copies contents of folder/dir to specified folder. 
 
-create_foldr.sh --> creates new folders. 
+<b>create_foldr.sh</b> --> shell script, creates new folders. 
 
-make_surf.sh --> creates new directories for saving of surf analysis data. 
+<b>make_surf.sh</b> --> shell script, creates new directories for saving of surf analysis data. 
 
-cooks_distance.R --> test script for computing cooks distance given sample data, 
+<b>cooks_distance.R</b> --> R test script for computing cooks distance given sample data, 
 
-CompilationSnippets.pdf --> compilation of code snippets, utilized for self teaching/testing or integration into other code.
+<b>CompilationSnippets.pdf</b> --> compilation of code snippets, utilized for self teaching/testing or integration into other code.

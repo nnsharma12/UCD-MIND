@@ -35,4 +35,4 @@ Linux/Python & Other Misc Scripts
 
 <b>cooks_distance.R</b> --> R test script for computing cooks distance given sample data, 
 
-<b>CompilationSnippets.pdf</b> --> compilation of code snippets, utilized for self teaching/testing or integration into other code.
+<b>CompilationofCodeSnippets.pdf</b> --> compilation of code snippets, utilized for self teaching/testing or integration into other code.

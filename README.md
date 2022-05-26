@@ -46,3 +46,5 @@ Linux/Python & Other Misc Scripts
 <b>DamNS.java</b> --> Javascript course code 
 
 <b>DamReportNS.java</b> --> Javascrrpt course code 2 
+
+<b> IQ_Trajectories_Freesurfer.pdf</b> --> Presentation of analyses/work. 

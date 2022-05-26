@@ -43,6 +43,6 @@ Linux/Python & Other Misc Scripts
 
 <b>MORI_PipelineInstructions.pdf</b> --> documentation for uploading/downloading MORI.
 
-<DamNS.java</b> --> Javascript course code 
+<b>DamNS.java</b> --> Javascript course code 
 
-<DamReportNS.java</b> --> Javascrrpt course code 2 
+<b>DamReportNS.java</b> --> Javascrrpt course code 2 

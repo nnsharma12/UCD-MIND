@@ -36,3 +36,13 @@ Linux/Python & Other Misc Scripts
 <b>cooks_distance.R</b> --> R test script for computing cooks distance given sample data, 
 
 <b>CompilationofCodeSnippets.pdf</b> --> compilation of code snippets, utilized for self teaching/testing or integration into other code.
+
+<b>FS Processes + Procedures.pdf</b> --> documentation for running Freesurfer processes. 
+
+<b>FS_MonolithReBorn.pdf</b> --> documentation running Freesurfer on Monolith. 
+
+<b>MORI_PipelineInstructions.pdf</b> --> documentation for uploading/downloading MORI.
+
+<DamNS.java</b> --> Javascript course code 
+
+<DamReportNS.java</b> --> Javascrrpt course code 2 
